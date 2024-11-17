@@ -11,7 +11,7 @@ import SwiftUI
 struct BingeItApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeScreenView()
         }
     }
 }
